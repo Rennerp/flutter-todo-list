@@ -1,6 +1,6 @@
-# todo_list
+# TodoList App
 
-This is a basic todo list app usign flutter and sqflite as a local database
+This is a basic todo list app using Flutter and sqflite as a local database
 
 
 ## Getting Started
